@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://chenhan.info/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chenhan.info/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chenhan.info/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chenhan.info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chenhan.info/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chenhan.info/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chenhan.info/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chenhan.info/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://chenhan.info/tags/</loc>
+  </url>
+  
+</urlset>
